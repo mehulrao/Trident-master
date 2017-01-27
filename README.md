@@ -1,5 +1,7 @@
 # Trident
 
+***THIS VERSION WAS MADE AND COMPILED BY /u/mehulrao***
+
 This exploits the following two CVEs:
 * CVE-2016-4655: allow an attacker to obtain sensitive information from kernel memory via a crafted app
 * CVE-2016-4656: allow an attacker to execute arbitrary code in a privileged context or cause a denial of service (memory corruption) via a crafted app
